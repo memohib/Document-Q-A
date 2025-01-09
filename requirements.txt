@@ -1,0 +1,30 @@
+ipykernel
+streamlit 
+langchain_community
+bs4
+python-dotenv
+langchain_core
+langchain-groq
+langchain-huggingface
+faiss-cpu
+sqlalchemy
+validators == 0.28.1
+youtube-transcript-api
+unstructured
+pytube
+pyaudio
+py3-tts
+SpeechRecognition
+streamlit-float
+audio_recorder_streamlit
+WhisperSpeech == 0.8.9
+webdataset
+sentencepiece 
+datasets[audio]
+neo4j==5.14
+phidata
+duckduckgo-search 
+newspaper4k 
+lxml_html_clean
+xmltodict
+gradio
